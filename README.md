@@ -1,3 +1,4 @@
+````
 // See https://aka.ms/new-console-template for more information
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
@@ -103,5 +104,6 @@ var emailUsername = driver2.FindElement(By.ClassName("genytxt")).Text;
 var emailDomain = "@yopmail.com";
 
 Console.WriteLine(emailUsername + emailDomain);
+``
 
 
