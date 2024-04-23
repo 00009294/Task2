@@ -1,3 +1,4 @@
+
 ````
 // See https://aka.ms/new-console-template for more information
 using OpenQA.Selenium;
@@ -128,9 +129,5 @@ Console.WriteLine(price2+"/ month" == price1);
 //var emailDomain = "@yopmail.com";
 
 //Console.WriteLine(emailUsername + emailDomain);
-
-
-
-``
 
 
